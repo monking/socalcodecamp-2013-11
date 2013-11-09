@@ -1,0 +1,78 @@
+# SoCal Code Camp - 2013-11
+
+## modelling
+
+### Sketchup
+
+lets you initiate modeling steps, to complete with keyboard specific measure
+
+### OpenSCAD
+
+Define volumes as functions; Prusa parts in OpenSCAD on GitHub
+
+\*in-fill is not specified in the model, but in the "slicer."
+
+### Capture
+
+  - Autodesk 123D
+    - online: upload 30-40 photos of an object
+    - phone app:123D Catch
+  - David Laserscanner
+    - use a digital projector and a camera
+  - ReconstructMe (kinect), 1cm resolution
+  - skanect (kinect), 1cm resolution
+  - decorative solutions
+    - imaterialise.com
+    - shapeways
+      - laser cintered nylon, metals are expensive
+      - specify printer volume and minimum wall size
+
+## Libraries
+
+Thingiverse (MakerBot)
+UltiMaker
+
+## 
+Slicer previews
+Slic3r
+
+### support material
+
+PVH, water soluble, useful for a support material from a dual nozzle setup
+
+  - Cura gives the option:from the plate only, or everywhere
+  - Cura also gives an option to avoid unstickng
+    - brim or raft:prints around the feet of your model, raft is easier to remove
+
+## common problems
+
+- slipped glass
+- windows updates (!)
+- ambient/bed temp too low
+  - ABS needs to cool kinda slow
+  - PLA needs to cool between layers
+    - small objects:print multiples to give each more time between layers
+
+##materials
+
+- ABS
+  - bed heat 110'C in order for it to stick
+  - stinks
+  - relatively easy to melt down and extrude to filament again
+- PLA
+  - stiffer
+  - made from corn
+
+## questions
+
+- multiple nozzles
+  - available in the thingiverse, but RepRap doesn't offer yet
+- existing printers available for use
+  - hacker spaces
+    - crashspace in Culver City
+- avoiding overhans
+  - Cura has an overhang view
+  - straight bridges: okay if your printer is tuned well
+    - filameent diameter
+    - nozzle diameter
+    - correct amount of time to cool to create appropriate tension, 95% infill
