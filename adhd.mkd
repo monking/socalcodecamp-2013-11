@@ -1,6 +1,7 @@
 # ADHD and Software Engineering (WPH 207)
 
-Steve Kohlenberger
+[Steve Kohlenberger](mailto:Steve@Strategies2Succeed.com?subject=Send me a
+Survey)
 
 "A Peak Under the Covers"
 
@@ -23,15 +24,82 @@ matures 3 years later in some areas, and 1 year earlier in motor control
 
 This is really personal, and so it's difficult to detach enough to take notes.
 
+## Official Types
+
+ADD is officially renamed ADHD May 2013.
+
+- Predominantly Inattentive (F>M) ADHD-PI (20-30%)
+- Hyperactive-Immpulsive (M>F) ADHD-HI (&lt;15%)
+- Combined type (Inatt. + Hyper + Impul.) ADHD-C (50-70%)
+  - tapping, listening to music, in order to concentrate
+- Not Otherwise Specified - ADHD-NOS
+
+"Hyperfocus" - being in the zone
+  
+  - what's your natural hyperfocus zone: if it's your carreer, you're set.
+    Otherwise, you'd better figure it out, because you'll never be a pro.
+
+As of this year, the definition is updated to include adults.
+
+## Common co-morbidities (co-occurring diagnoses)
+
+Depression, anxiety, bipolar, OCD, *asthma*, etc. ADHD is mostly genetic. Even
+if ADHD is stronger, the co-morbidity is diagnosed first. Diagnose ADHD first
+and the other symptoms will likely diminish.
+
+1. Alcoholism
+2. Antisocial Personality Disorder (ASPD)
+3. Anxiety (25%)
+6. Depression (32%)
+17. Sensory integration disorders
+19. Speech and communication problems
+
+## ADHD Impostors
+
+Environmental causes - can make it look like someone has ADHD when they don't.
+
+It takes about 25 minutes for a healthy person to get back on track (UCI study
+of a software company). Multi-tasking or interruptions will cause many
+context-switches, and less focus and energy.
+
+Sleep deprivation can cause symptoms similar to ADHD
+
+## Hyper-focus
+
+great to focus, tunes everyone/-thing else out.
+
+It can be profiled: triggered, brought out
+
+- Amygdala flooding
+  - overwhelm, like a panic attack
+  - caused by too much stimulus & not enough time to process
+- ***NOT*** Perseveration
+  - repeating the same thought/idea over and over
+  - some "experts" believe that hyperfocus is just "perseveration" misnamed
+
+## closing thoughs
+
+- brain plasticity: an adult can be trained
+  - CogMed has proven services/software for this purpose
+- strategies
+  - medication: temporary fixes
+  - psychotherapy: exploring & correcting behaviors
+  - environmental: nutraceuticals, sleep, exercise *patterns*, interruptions,
+    stress...
+  - coaching
+  - capture distractions :)
+  - establish a social support network :)
+
 ## Questions
 
 - how does a diagnosis help. You didn't know for 30+ years, what is the benefit
   now that you know?
   - the more you know what it is, the better your life will be
+- cognitive dissonance
+- setting up my environment nto focus
 
-## Official Types
 
-- 
-- 
-- 
-- 
+## science
+
+  - mindfulness meditation is proven to improve ADHDhealtth
+    - spending time specifically on 
