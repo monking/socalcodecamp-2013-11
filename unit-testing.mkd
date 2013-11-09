@@ -1,0 +1,19 @@
+# Unit Testing @socalcodecamp
+
+[Koans](github.com/approvals)
+
+Executable things that compile despite errors
+
+## Questions
+
+### how big is too big for a unit test?
+
+Unit tests give you...
+
+- spec
+  - Here's a test: can you write the scenario on a whiteboard? If you can't,
+    then coding it will be a problem.
+- feedback :)
+- regression ("now that it's working, does it still work?")
+- granularity ("when regression no longer works, why?")
+  - temporal granularity: "what's did you type since it passed?"
