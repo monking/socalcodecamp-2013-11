@@ -17,3 +17,5 @@ Unit tests give you...
 - regression ("now that it's working, does it still work?")
 - granularity ("when regression no longer works, why?")
   - temporal granularity: "what's did you type since it passed?"
+
+[teachingkidsprogramming.org](teachingkidsprogramming.org)
