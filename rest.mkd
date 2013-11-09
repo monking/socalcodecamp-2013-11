@@ -93,11 +93,16 @@ By the way, custom "X-" headers are officially banned.
   - resources as representations
     - media types
       - "Accept" header for the format of the **representation** to be received
+        - can be ";" delimited and weighted for multiples
       - "Content-type" header identifying the format of the request body
       - it's **OK** to create your own media type
         - e.g. "application/vnd.ZooCo.Owl.v2+json"
       - Response status 415 "unsupported media type"... what else ya got?
   - self-descriptive messages
   - hypertext as the engine of application state
+    - "cool URLs never change"
+    - header `Link: <URL>; rel=<here's why>`
+      - maybe you'll want to check this out
+      - `rel`, for relation, is a standard...kinda
 - layered systems
 - code on demand
