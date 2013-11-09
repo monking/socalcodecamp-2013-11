@@ -1,5 +1,7 @@
 # REST
 
+@devinrader | devin@twilio.com
+
 ## constraints to allow "components" to interact
 
 components are not necessarily "client"and "server"
@@ -105,4 +107,14 @@ By the way, custom "X-" headers are officially banned.
       - maybe you'll want to check this out
       - `rel`, for relation, is a standard...kinda
 - layered systems
+  - HTTP supports intermediaries (e.g. `client<->proxy<->cache<->server`)
 - code on demand
+
+### Why do all that?
+
+- Separation of concerns: components can change independently
+- Extensibility
+- Scalability
+- performance
+- visibility: what happened, who did what, why?
+- reach: it's everywhere
