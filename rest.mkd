@@ -1,0 +1,17 @@
+# REST
+
+## constraints to allow "components" to interact
+
+components are not necessarily "client"and "server"
+
+- client-server architecture
+- stateless
+- cacheable
+- uniform interfaces
+- layered systems
+- code on demand
+
+## makinig these constraints more concrete
+
+Let's pick a protocol. "A RESTAPI **should not be dependent on any single
+communication protocol.** We're using (\*gasp\*) HTTP.
