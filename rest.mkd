@@ -11,7 +11,69 @@ components are not necessarily "client"and "server"
 - layered systems
 - code on demand
 
-## makinig these constraints more concrete
+## making these constraints more concrete
 
 Let's pick a protocol. "A RESTAPI **should not be dependent on any single
 communication protocol.** We're using (\*gasp\*) HTTP.
+
+### diving into HTTP
+
+Fiddler (Win), Charles (Mac), Telnet (GNU/Linux)
+
+#### Request 
+
+    <Method><Request URI><Version>
+    <Headers>
+    <Body>
+
+
+#### Response
+
+    <Version><Status code><Reason Phrase>
+    <Headers>
+    <Body.
+
+#### Methods
+
+Common in front-end
+
+- GET (safe: RO)
+- POST
+
+Also specified (in RFC2616)
+
+- OPTIONS
+- HEAD (safe: RO)
+- PUT
+- DELETE
+- TRACE
+- CONNECT
+
+(RFC5789)
+
+- PATCH: updating just one portion of a resource (great for document store with front-end MVC!)
+
+_Safe_ (read-only; no effect to resources...): GET, HEAD
+_Idempotent_ (multiple requests will get the same response): GET, OPTIONS, HEAD, PUT, TRACE, CONNECT  
+scoped to the client and server, 
+
+#### Statuses
+
+1XX - informational
+2XX - successful
+3XX - redirection
+4XX - client error
+500 - server error
+
+#### Headers
+
+Request headers:
+
+Authorization, Content-type, Accept  
+...lots of them
+
+Response Headers, too!
+
+By the way, custom "X-" headers are officially banned.
+
+### 
